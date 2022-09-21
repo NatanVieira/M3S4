@@ -1,0 +1,17 @@
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocaRepository.deps.json
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocaRepository.runtimeconfig.json
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocaRepository.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocaRepository.pdb
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocarDomain.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\BandaTocarDomain.pdb
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.csproj.AssemblyReference.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.AssemblyInfoInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.AssemblyInfo.cs
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.csproj.CoreCompileInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.csproj.CopyComplete
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.pdb
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\BandaTocaRepository.genruntimeconfig.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\obj\Debug\net6.0\ref\BandaTocaRepository.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocaRepository\bin\Debug\net6.0\ref\BandaTocaRepository.dll

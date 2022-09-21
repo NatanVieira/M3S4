@@ -1,0 +1,12 @@
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\bin\Debug\net6.0\BandaTocarDomain.deps.json
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\bin\Debug\net6.0\BandaTocarDomain.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\bin\Debug\net6.0\BandaTocarDomain.pdb
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.csproj.AssemblyReference.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.AssemblyInfoInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.AssemblyInfo.cs
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.csproj.CoreCompileInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\BandaTocarDomain.pdb
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\obj\Debug\net6.0\ref\BandaTocarDomain.dll
+C:\Users\natanael.vieira\Desktop\DIH\4Semana\M3S4\src\BandaTocarDomain\bin\Debug\net6.0\ref\BandaTocarDomain.dll

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d9220c4-7549-4384-92fd-0abf24658c33": {
+      "ProjectGuid": "6d9220c4-7549-4384-92fd-0abf24658c33",
+      "DisplayName": "BandaTocarDomain",
+      "ColorIndex": 0
+    },
+    "7bdf8786-4c31-4c98-9590-997bfc09bf7f": {
+      "ProjectGuid": "7bdf8786-4c31-4c98-9590-997bfc09bf7f",
+      "DisplayName": "BandaTocaRepository",
+      "ColorIndex": 1
+    },
+    "d9ec2f0f-2c7b-4dcf-bd1d-9896d6a10efc": {
+      "ProjectGuid": "d9ec2f0f-2c7b-4dcf-bd1d-9896d6a10efc",
+      "DisplayName": "BandaTocarApi",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

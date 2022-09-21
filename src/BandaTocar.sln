@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandaTocarApi", "BandaTocarApi\BandaTocarApi.csproj", "{D9EC2F0F-2C7B-4DCF-BD1D-9896D6A10EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandaTocarDomain", "BandaTocarDomain\BandaTocarDomain.csproj", "{6D9220C4-7549-4384-92FD-0ABF24658C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandaTocaRepository", "BandaTocaRepository\BandaTocaRepository.csproj", "{7BDF8786-4C31-4C98-9590-997BFC09BF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EC2F0F-2C7B-4DCF-BD1D-9896D6A10EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EC2F0F-2C7B-4DCF-BD1D-9896D6A10EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EC2F0F-2C7B-4DCF-BD1D-9896D6A10EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EC2F0F-2C7B-4DCF-BD1D-9896D6A10EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9220C4-7549-4384-92FD-0ABF24658C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9220C4-7549-4384-92FD-0ABF24658C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9220C4-7549-4384-92FD-0ABF24658C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9220C4-7549-4384-92FD-0ABF24658C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDF8786-4C31-4C98-9590-997BFC09BF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDF8786-4C31-4C98-9590-997BFC09BF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDF8786-4C31-4C98-9590-997BFC09BF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDF8786-4C31-4C98-9590-997BFC09BF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
