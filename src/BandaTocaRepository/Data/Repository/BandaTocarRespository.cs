@@ -17,5 +17,10 @@ namespace BandaTocaRepository.Data.Repository {
         {
             _context.BandaTocar.Add(bandaTocar);
         }
+
+        public BandaTocarModel ObterPorDescricao(string descricao)
+        {
+            return _context.BandaTocar.FirstOrDefault(bt => bt.Descricao == descricao);
+        }
     }
 }

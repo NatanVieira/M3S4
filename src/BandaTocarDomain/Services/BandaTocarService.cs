@@ -14,8 +14,10 @@ namespace BandaTocarDomain.Services {
             _repository = repository;
         }
         public void CadastrarBandaTocar(BandaTocarDTO bandaTocar)
-        {
-            _repository.CadastrarBandaTocar(new BandaTocarModel(bandaTocar.Descricao, bandaTocar.NomeMusica, bandaTocar.Sequencia));
+        {    if(_repository.ObterPorDescricao(bandaTocar.Descricao) == null)
+                _repository.CadastrarBandaTocar(new BandaTocarModel(bandaTocar.Descricao, bandaTocar.NomeMusica, bandaTocar.Sequencia));
+            else
+                throw new Exception("Banda Tocar Já cadastrada.");
         }
     }
 }

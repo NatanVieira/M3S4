@@ -5,5 +5,6 @@ namespace BandaTocarDomain.Interfaces {
     public interface IBandaTocarRepository {
 
         public void CadastrarBandaTocar(BandaTocarModel bandaTocar);
+        public BandaTocarModel ObterPorDescricao(string descricao);
     }
 }
