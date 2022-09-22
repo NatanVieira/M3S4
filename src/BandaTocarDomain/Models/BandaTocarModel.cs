@@ -1,5 +1,7 @@
 
 
+using BandaTocarDomain.Interfaces;
+
 namespace BandaTocarDomain.Models {
 
     public class BandaTocarModel {
@@ -9,6 +11,9 @@ namespace BandaTocarDomain.Models {
         public string NomeMusica { get; set; }
         public int Sequencia { get; set; }
 
+        public ICommand Interagir {get; set;}
+        public ICommand TestarLuzes {get; set;}
+        public ICommand TestarSom {get; set;}
         public BandaTocarModel(){
 
         }
