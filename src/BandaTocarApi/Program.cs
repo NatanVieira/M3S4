@@ -1,7 +1,8 @@
 using BandaTocarDomain.Interfaces;
 using BandaTocarDomain.Services;
-using BandaTocaRepository.Data;
-using BandaTocaRepository.Data.Repository;
+// using BandaTocaRepository.Data;
+// using BandaTocaRepository.Data.Repository;
+using BandaTocarDI;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,9 +13,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IBandaTocarService, BandaTocarService>();
-builder.Services.AddScoped<IBandaTocarRepository, BandaTocarRepository>();
-builder.Services.AddDbContext<BandaTocarDbContext>();
+builder.Services.Register();
+// builder.Services.AddScoped<IBandaTocarService, BandaTocarService>();
+// builder.Services.AddScoped<IBandaTocarRepository, BandaTocarRepository>();
+// builder.Services.AddDbContext<BandaTocarDbContext>();
 
 var app = builder.Build();
 

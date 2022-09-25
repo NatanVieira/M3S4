@@ -7,9 +7,9 @@ namespace BandaTocarDomain.Services {
 
     public class CommandBanda : ICommand
     {
-        public void execute()
+        public string execute()
         {
-            System.Console.WriteLine("Interagindo com o público!!!");
+            return "Interagindo com o público!!!";
         }
     }
 }

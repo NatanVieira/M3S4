@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BandaTocarDomain\BandaTocarDomain.csproj" />
-    <ProjectReference Include="..\BandaTocaRepository\BandaTocaRepository.csproj" />
+    <ProjectReference Include="..\BandaTocarDI\BandaTocarDI.csproj" />
   </ItemGroup>
 
 </Project>

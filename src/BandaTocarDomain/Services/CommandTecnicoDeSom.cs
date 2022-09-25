@@ -5,9 +5,9 @@ namespace BandaTocarDomain.Services {
 
     public class CommandTecnicoDeSom : ICommand
     {
-        public void execute()
+        public string execute()
         {
-            System.Console.WriteLine("Testando volume da banda na mesa.");
+            return "Testando volume da banda na mesa.";
         }
     }
 }

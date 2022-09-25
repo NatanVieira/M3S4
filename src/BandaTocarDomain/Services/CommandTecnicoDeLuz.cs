@@ -6,9 +6,9 @@ namespace BandaTocarDomain.Services {
 
     public class CommandTecnicoDeLuz : ICommand
     {
-        public void execute()
+        public string execute()
         {
-            System.Console.WriteLine("Testando luzes do show.");
+            return "Testando luzes do show.";
         }
     }
 }

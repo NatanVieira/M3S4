@@ -3,6 +3,6 @@
 namespace BandaTocarDomain.Interfaces {
 
     public interface ICommand {
-        public void execute();
+        public string execute();
     }
 }

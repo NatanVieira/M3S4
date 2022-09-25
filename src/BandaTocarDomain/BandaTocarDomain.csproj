@@ -5,4 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+      <InternalVisibleTo Include = "BandaTocaRepository" />
+      <InternalVisibleTo Include = "BandaTocarDI" />
+  </ItemGroup>
 </Project>
